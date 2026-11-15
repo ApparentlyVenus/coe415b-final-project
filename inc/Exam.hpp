@@ -25,7 +25,6 @@ public:
     void setDuration(int duration);
     void setCourseCode(const std::string& courseCode);
     void setSlot(int slot);
-
 };
 
 #endif
