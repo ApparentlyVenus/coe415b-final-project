@@ -1,4 +1,4 @@
-#include "Exam.hpp"
+#include "../inc/Exam.hpp"
 
 int Exam::getId() const { return _id; }
 const std::string& Exam::getCourseCode() const { return _courseCode; }

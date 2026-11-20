@@ -1,4 +1,4 @@
-#include "Student.hpp"
+#include "../inc/Student.hpp"
 #include <algorithm>
 
 int Student::getId() const { return _id; }

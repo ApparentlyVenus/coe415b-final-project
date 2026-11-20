@@ -1,4 +1,4 @@
-#include "Graph.hpp"
+#include "../inc/Graph.hpp"
 #include <stdexcept>
 
 void Graph::check(int u) const {

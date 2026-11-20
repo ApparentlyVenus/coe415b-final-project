@@ -67,3 +67,4 @@ Testing/
 .cache/
 
 .vscode/
+obj/

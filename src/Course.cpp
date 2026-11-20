@@ -1,4 +1,4 @@
-#include "Course.hpp"
+#include "../inc/Course.hpp"
 
 const std::string& Course::getCode() const { return _code; }
 const std::string& Course::getName() const { return _name; }
