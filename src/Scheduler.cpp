@@ -1,4 +1,4 @@
-#include "Scheduler.hpp"
+#include "../inc/Scheduler.hpp"
 
 #include <algorithm>
 #include <random>
